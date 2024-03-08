@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "787731341980",
+    "project_id": "react-native-food-b9d94",
+    "storage_bucket": "react-native-food-b9d94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787731341980:android:f8558e7046a1dacd178359",
+        "android_client_info": {
+          "package_name": "com.food"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcr58weeR5NKdj-9mLwtpqE-hsjavNCgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
